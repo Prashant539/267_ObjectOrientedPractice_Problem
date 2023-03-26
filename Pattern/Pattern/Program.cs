@@ -7,7 +7,8 @@ namespace Pattern
         {
             Console.WriteLine("Welcome to Patterns Problem");
             //StarPattern.PrintStarPattern();
-           ReverseRightAngleStarPattern.PrintPattern();
+            //ReverseRightAngleStarPattern.PrintPattern();
+            SquareStarPattern.PrintSquareStarPattern();
 
            
         }
