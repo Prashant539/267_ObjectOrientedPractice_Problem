@@ -6,7 +6,9 @@ namespace Pattern
         public static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Patterns Problem");
-             StarPattern.PrintStarPattern();
+            //StarPattern.PrintStarPattern();
+           ReverseRightAngleStarPattern.PrintPattern();
+
            
         }
     }
